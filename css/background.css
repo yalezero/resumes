@@ -1,0 +1,43 @@
+/*********************设置背景************************************/
+.item-1 {
+    background: url("../images/banner.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    background-size:cover ;
+}
+.item-1 .fp-tableCell{background:  rgba(0,0,0,0.6)}
+.item-2 {
+background: url(../images/base.jpg) rgb(42,43,44);
+}
+.item-5 {
+    background: url("../images/bg1.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    background-size:cover;
+}
+.item-5 .fp-tableCell{background-color: rgba(3,19,37,0.75);}
+.item-4 {
+        background: url("../images/bg4.jpg") no-repeat center center;
+
+    -webkit-background-size: cover;
+    background-size:cover;
+}
+.item-4 .fp-tableCell{background-color: rgba(0,0,0,0.6);}
+.guns {
+    opacity: 1;
+    width: 100%;
+    height: 100%;
+    /*background: url("../images/pure.jpg") no-repeat center center;*/
+    -webkit-background-size: cover;
+    background-size:cover;
+    position: fixed;
+    display: none;
+}
+.pure {
+    width: 100%;
+    height: 100%;
+    background: url("../images/pure.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    background-size:cover;
+    position: fixed;
+    display: none;
+}
+/**********************设置背景End*****************************************/

@@ -1,0 +1,30 @@
+
+body {
+    font-family: microsoft yahei, sans-serif;
+    tap-heilight-color:transparent;
+    -webkit-tap-highlight-color: transparent;
+}
+a {
+    color: #ffffff;
+}
+.g_date{font-size:28px;}
+.f-left {
+    float: left;
+}
+.f-right {
+    float: right;
+}
+@media (max-width: 767px) {
+    p {
+        font-size: 14px !important;
+    }
+    .g_date{font-size:20px;}
+    #item-4 .thumbnail .caption {
+
+        height: 180px;
+    }
+    .portfolio-item{height:120px!important;}
+    .portfolio-item .hover-bg{height:120px!important;}
+    .isotope .col-md-3{width:48%; float: left;}
+    .item-3 .skill-introduce{top:10% !important;}
+}
